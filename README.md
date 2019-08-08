@@ -4,7 +4,7 @@ This project is a example how to implement express with swagger to documentation
 
 ```
 npm init -y 
-npm install --save swagger-jsdoc swagger-ui-express
+npm install --save express swagger-jsdoc swagger-ui-express
 ```
 
 setting the configuration in configuration/swagger.js and on docs creating the file yaml to the methods to the REST API
