@@ -20,7 +20,7 @@
   "homepage": "https://github.com/LuiisFernando/nodejs-swagger#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "swagger-jsdoc": "^3.0.3",
     "swagger-ui-express": "^4.0.1"
   },
